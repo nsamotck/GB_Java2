@@ -1,5 +1,5 @@
 src/main/java/ru/gb/practice
 target
 .idea
-*iml
-*xml
+*.iml
+*.xml
